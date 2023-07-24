@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.example.oauthoidc","l":"OauthOidcApplication"},{"p":"com.example.LoginComponent.LoginController","l":"PlainLogin"},{"p":"com.example.LoginComponent.LoginModel","l":"User"}];updateSearchResults();
